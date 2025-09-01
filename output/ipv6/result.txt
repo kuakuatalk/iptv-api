@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 18:45:40,https://0472.org/hls/cgtn.m3u8$订阅源
+2025-09-01 18:50:56,https://0472.org/hls/cgtn.m3u8$订阅源
 
 央视,#genre#
 CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
@@ -12,4 +12,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
+江苏卫视,https://migu.188766.xyz/?migutoken=6e76c6dc610df9add9f2e0ae4cfbc347&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$订阅源
+陕西卫视,https://migu.188766.xyz/?migutoken=10c796b9a6319d64719c78ea4d04cffa&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=$订阅源
